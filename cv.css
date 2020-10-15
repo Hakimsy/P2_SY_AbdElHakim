@@ -1,18 +1,4 @@
-@font-face {
-  font-family: 'sinkin_sans400_regular';
-  src: url('SinkinSans-400Regular-webfont.eot');
-  src: url('SinkinSans-400Regular-webfont.eot?#iefix') format('embedded-opentype'),
-       url('SinkinSans-400Regular-webfont.woff2') format('woff2'),
-       url('SinkinSans-400Regular-webfont.woff') format('woff'),
-       url('SinkinSans-400Regular-webfont.ttf') format('truetype'),
-       url('SinkinSans-400Regular-webfont.svg#sinkin_sans400_regular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
 body {
-font-family: 'sinkin_sans400_regular';
 margin: 0;
 padding: 0;
 height: 100%;
@@ -30,6 +16,7 @@ h3 {
 position: relative;
 line-height: 1.2em;
 }
+
 h3:before {
 position: absolute;
 left: 0;
