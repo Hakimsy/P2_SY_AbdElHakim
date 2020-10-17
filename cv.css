@@ -163,15 +163,3 @@ color: #FFD600;
 
 
 }
-
-
-
-
-@media screen and (max-width: 860px) {
-  .container-1 {
-    flex: none;
-  }
-  .rightbox {
-    flex 70% ;
-  }
-}
